@@ -1,3 +1,5 @@
+/*Eriona Mulaj */
+
 var slideIndex = 1;
 showSlides(slideIndex);
 

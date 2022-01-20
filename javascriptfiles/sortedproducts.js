@@ -1,3 +1,5 @@
+/*Eriona Mulaj */
+
 (function() {
 		
 		let field = document.querySelector('.items');
